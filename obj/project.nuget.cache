@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h1kVXiapHUui0T5OCndBbisvNqsUgMgMq+Ennr/1XmkgD3Rb7bT0bdFGD2p+2GK+hRFxRFnUPuloQny67qxKOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\Desktop\\Dxicore\\Dxicore\\Dxicore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

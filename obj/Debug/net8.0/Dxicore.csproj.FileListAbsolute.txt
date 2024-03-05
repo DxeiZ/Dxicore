@@ -1,0 +1,17 @@
+C:\Users\Pc\Desktop\Dxicore\Dxicore\bin\Debug\net8.0\Dxicore.exe
+C:\Users\Pc\Desktop\Dxicore\Dxicore\bin\Debug\net8.0\Dxicore.deps.json
+C:\Users\Pc\Desktop\Dxicore\Dxicore\bin\Debug\net8.0\Dxicore.runtimeconfig.json
+C:\Users\Pc\Desktop\Dxicore\Dxicore\bin\Debug\net8.0\Dxicore.dll
+C:\Users\Pc\Desktop\Dxicore\Dxicore\bin\Debug\net8.0\Dxicore.pdb
+C:\Users\Pc\Desktop\Dxicore\Dxicore\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\Dxicore.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\Dxicore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\Dxicore.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\Dxicore.AssemblyInfo.cs
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\Dxicore.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\Dxicore.csproj.Up2Date
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\Dxicore.dll
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\refint\Dxicore.dll
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\Dxicore.pdb
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\Dxicore.genruntimeconfig.cache
+C:\Users\Pc\Desktop\Dxicore\Dxicore\obj\Debug\net8.0\ref\Dxicore.dll
